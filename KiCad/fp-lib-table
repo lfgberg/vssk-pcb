@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "FancyHybridPrints")(type "KiCad")(uri "C:/Users/lfgab/Documents/GitHub/FancyHybridPrints.pretty")(options "")(descr ""))
+  (lib (name "keeb")(type "KiCad")(uri "C:/Users/lfgab/Documents/GitHub/keeb-kicad-footprints/keeb.pretty")(options "")(descr ""))
+  (lib (name "graphics")(type "KiCad")(uri "C:/Users/lfgab/Documents/GitHub/keeb-kicad-footprints/graphics.pretty")(options "")(descr ""))
+)
